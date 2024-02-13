@@ -1,0 +1,14 @@
+C:\Users\herok\source\repos\ConsoleAdmin\ConsoleAdmin\bin\Debug\net6.0\ConsoleAdmin.exe
+C:\Users\herok\source\repos\ConsoleAdmin\ConsoleAdmin\bin\Debug\net6.0\ConsoleAdmin.deps.json
+C:\Users\herok\source\repos\ConsoleAdmin\ConsoleAdmin\bin\Debug\net6.0\ConsoleAdmin.runtimeconfig.json
+C:\Users\herok\source\repos\ConsoleAdmin\ConsoleAdmin\bin\Debug\net6.0\ConsoleAdmin.dll
+C:\Users\herok\source\repos\ConsoleAdmin\ConsoleAdmin\bin\Debug\net6.0\ConsoleAdmin.pdb
+C:\Users\herok\source\repos\ConsoleAdmin\ConsoleAdmin\obj\Debug\net6.0\ConsoleAdmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herok\source\repos\ConsoleAdmin\ConsoleAdmin\obj\Debug\net6.0\ConsoleAdmin.AssemblyInfoInputs.cache
+C:\Users\herok\source\repos\ConsoleAdmin\ConsoleAdmin\obj\Debug\net6.0\ConsoleAdmin.AssemblyInfo.cs
+C:\Users\herok\source\repos\ConsoleAdmin\ConsoleAdmin\obj\Debug\net6.0\ConsoleAdmin.csproj.CoreCompileInputs.cache
+C:\Users\herok\source\repos\ConsoleAdmin\ConsoleAdmin\obj\Debug\net6.0\ConsoleAdmin.dll
+C:\Users\herok\source\repos\ConsoleAdmin\ConsoleAdmin\obj\Debug\net6.0\refint\ConsoleAdmin.dll
+C:\Users\herok\source\repos\ConsoleAdmin\ConsoleAdmin\obj\Debug\net6.0\ConsoleAdmin.pdb
+C:\Users\herok\source\repos\ConsoleAdmin\ConsoleAdmin\obj\Debug\net6.0\ConsoleAdmin.genruntimeconfig.cache
+C:\Users\herok\source\repos\ConsoleAdmin\ConsoleAdmin\obj\Debug\net6.0\ref\ConsoleAdmin.dll
